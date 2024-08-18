@@ -1,0 +1,4 @@
+install plank for experience dock and
+add it, in startup app's
+
+sudo apt install plank
